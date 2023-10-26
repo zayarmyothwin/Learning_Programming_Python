@@ -1,0 +1,6 @@
+Input, output, processing အတွက်အောက်ပါ keyword တွေကိုအသုံးပြုပါတယ်။
+Input: READ, OBTAIN, GET
+Output: PRINT, DISPLAY, SHOW
+Compute: COMPUTE, CALCULATE, DETERMINE
+Initialize: SET, INIT
+Add one: INCREMENT, INCREASE, DECREMENT, DECREASE
